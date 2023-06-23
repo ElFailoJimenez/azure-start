@@ -170,4 +170,4 @@ _Best way to check if all resources are gone is going to "All resources" from th
   
 <h1><p align=center>(ﾉ^ヮ^)ﾉ*:・ﾟ✧ COMPLETE! ✧ﾟ・:*╰(^ヮ^╰)</p></h1>
 
-<h2><p align=center>Next Demonstration:<br><a href="https://github.com/JTYKolesar/configure-ad">Configuring On-premises Active Directory within Azure VMs</a></p></h2>
+<h2><p align=center>Next Demonstration:<br><a href="https://github.com/ElFailoJimenez/configure-ad">Configuring Active Directory within Azure VMs</a></p></h2>
